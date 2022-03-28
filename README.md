@@ -1,4 +1,3 @@
-# EjercicioTallerHtmlCss
-Ejercicio Taller Html Css
+# Imágenes para entrenamiento de modelo
+Ester expósito
 
-Alumno: Mateo San Isidro Pérez
